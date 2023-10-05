@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- *  * main - Entry point
- *   * Description: various types on the computer
- *    * Return: 0 (success)
- *     */
+ * main - Entry point
+ * Description: various types on the computer
+ * Return: 0 (success)
+ */
 int main(void)
 {
 		printf("Size of a char: %ld byte(s)\n", sizeof(char));
