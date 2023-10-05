@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
- * The main function enables the program to run without errors
- * Return value is 0
+ * main - Entry point
+ * Return: value is 0
  */
 
 int main(void)
