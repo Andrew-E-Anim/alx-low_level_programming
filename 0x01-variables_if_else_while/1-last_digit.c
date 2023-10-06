@@ -23,3 +23,4 @@ int main(void)
 	else
 		printf("less than 6 but not 0\n");
 	return (0);
+}
