@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- *  * main - Entry point
- *   * Description: prints combination of two digits
- *    * Return: 0 (success)
- *     */
+ *main - Entry point
+ *Description: prints combination of two digits
+ *Return: 0 (success)
+ */
 int main(void)
 {
 	int num1, num2;
