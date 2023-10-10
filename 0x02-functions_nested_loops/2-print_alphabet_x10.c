@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_alphabet_-10x - printing alphabet 10x in lowercase
+ * print_alphabet_-x10 - printing alphabet x10 in lowercase
  *
  * Return: void
  */
-void print_alphabet_10x(void)
+void print_alphabet_10(void)
 {
 	char ch;
 	int i;
