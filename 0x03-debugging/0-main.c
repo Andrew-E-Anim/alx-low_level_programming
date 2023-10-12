@@ -1,18 +1,15 @@
 #include <stdio.h>
 
 /**
- * main - infinite loop
+ * main - Function that prints if integer is positive or negative
  * Return: 0 (success)
  */
 int main(void)
 {
 	int i;
 
-	printf("Infinite loop: (\n");
-
 	i = 0;
-
-	printf("Infinite loop avoided! \\o/\n");
+	positive_or_negative(i);
 
 	return (0);
 }
